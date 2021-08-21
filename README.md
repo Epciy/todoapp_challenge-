@@ -2,7 +2,6 @@
 
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Inspired_By : https://github.com/AlayaCare/backend-python-test
 The TODO App allows a user to add reminders of thing he needs to do. Here are the requirement for the app.
